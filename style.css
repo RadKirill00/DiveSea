@@ -88,13 +88,13 @@ margin-left: 20px;
 .text__info {
   display: flex;
   gap: 80px;
-  padding-top: 90px;
+  padding-top: 70px;
 }
 .main__slider {
   padding-top: 100px;
 }
 .slider__png {
-  width: 900px;
+  width: 950px;
 }
 .p-tittle {
   font-size: 90px;
