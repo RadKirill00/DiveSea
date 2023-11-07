@@ -10,7 +10,7 @@
   padding-left: 93px;
   padding-right: 96px;
   text-align: center;
-   margin-top: 40px;
+  margin-top: 40px;
 }
 .header__logo {
   padding-right: 20px;
@@ -105,12 +105,14 @@ margin-left: 20px;
   color: white;
   height: 70px;
   border-radius: 20px;
+  font-size: 20px;
 }
 .button-2 {
   width: 160px;
   border: 1px solid black;
   height: 70px;
   border-radius: 20px;
+  font-size: 20px;
 }
 .num {
   font-size: 37px;
